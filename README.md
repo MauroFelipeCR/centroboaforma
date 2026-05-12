@@ -30,4 +30,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Você pode visualizar o projeto online através do link:  
 [https://maurofelipecr.github.io/centroboaforma/](https://maurofelipecr.github.io/centroboaforma/)
 
-https://maurofelipecr.github.io/centroboaforma/
+
